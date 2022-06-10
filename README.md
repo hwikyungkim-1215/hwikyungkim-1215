@@ -12,9 +12,8 @@
 
 <br>
 
-
-<Strong>📨 Email </Strong><br>hwikyung1727@gmail.com<br><br>
-<Strong>📑 Blog </Strong><br>[하루살이 개발자](https://thrainer.tistory.com/)<br>
+<Strong>📑 Blog </Strong><br>[하루살이 개발자](https://thrainer.tistory.com/)<br><br>
+<Strong>📨 Email </Strong><br>hwikyung1727@gmail.com<br>
 
 </p>
 
