@@ -14,7 +14,7 @@
 
 <p align="center">
 
-반갑습니다👐<br>
+반갑습니다 👐<br>
 
 제 이름은 김휘경이고 백엔드를 공부하고 있어요!<br>
 
@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>⚒️Tech Stack⚒️</Strong><br><br>
     💡used as the main
 </p>
 
