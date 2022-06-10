@@ -9,13 +9,15 @@
 
 현재 대학교 4학년에 재학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
 
+
 <br>
+
+
 <Strong>📨 Email </Strong><br>hwikyung1727@gmail.com<br><br>
 <Strong>📑 Blog </Strong><br>[하루살이 개발자](https://thrainer.tistory.com/)<br>
-</p>
 
 </p>
-<br>
+
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br><br>
