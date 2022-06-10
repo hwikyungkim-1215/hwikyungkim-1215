@@ -1,13 +1,5 @@
-### Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=hwikyung's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
-<br>
-
-
-<Strong>📨 Email </Strong><br>hwikyung1727@gmail.com<br><br>
-<Strong>📑 Blog </Strong><br>[하루살이 개발자](https://thrainer.tistory.com/)<br>
-
-</p>
 
 
 <br>
@@ -20,8 +12,12 @@
 
 현재 대학교 4학년에 재학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
 
+<br>
+<Strong>📨 Email </Strong><br>hwikyung1727@gmail.com<br><br>
+<Strong>📑 Blog </Strong><br>[하루살이 개발자](https://thrainer.tistory.com/)<br>
 </p>
 
+</p>
 <br>
 
 <p align="center">
